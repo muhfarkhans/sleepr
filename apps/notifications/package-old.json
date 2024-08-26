@@ -1,0 +1,13 @@
+{
+  "name": "@sleepr/notifications",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ilikehanabi",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^6.4.15"
+  }
+}
